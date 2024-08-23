@@ -1,5 +1,6 @@
 # HyperSound Miner
 
+- OFFICIAL WEBSITE ([https://hypers.money/](https://hypers.money/))
 
 ## Overview
 This repository provides a minimal setup to begin mining $HYPERS tokens.
